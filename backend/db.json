@@ -1,0 +1,29 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Notebook",
+      "price": 4500
+    },
+    {
+      "id": 2,
+      "name": "Camiseta",
+      "price": 90
+    },
+    {
+      "id": 3,
+      "name": "Samsung",
+      "price": 1900.5
+    },
+    {
+      "id": 4,
+      "name": "Mouse",
+      "price": 60
+    },
+    {
+      "name": "Glass",
+      "price": "490.5",
+      "id": 5
+    }
+  ]
+}

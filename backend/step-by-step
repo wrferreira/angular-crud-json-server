@@ -1,0 +1,8 @@
+npm init -y
+npm install json-server
+
+Ajustar no package-json:
+==> "start": "json-server --watch db.json --port 3001"
+
+Para run server:
+==> npx json-server --watch db.json
